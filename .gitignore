@@ -1,0 +1,6 @@
+/build/
+/dist/
+/.zig-cache/
+/zig-cache/
+*.pdb
+__pycache__/

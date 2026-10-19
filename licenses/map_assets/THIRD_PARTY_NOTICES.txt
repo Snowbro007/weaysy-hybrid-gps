@@ -1,0 +1,25 @@
+Google Maps Style GPS - By weaysy 0.4.10 - attribution and changes
+
+Google Material Icons (round), Copyright Google Inc., Apache License 2.0.
+Source: https://github.com/google/material-design-icons
+Changes by Weaysy: pictograms recolored white or yellow, resized and composed into colored
+badges; converted to 256px lossless DDS textures with nine mip levels.
+The source SVGs carry modification notices. ASSET_PROVENANCE.json maps every
+runtime texture to its artwork, changes, upstream license and source hash.
+The Workshop preview also uses these badges; its layout is original Weaysy work.
+No Google Maps app artwork, brand logos or font files are included.
+
+Original Weaysy geometry: position arrow/backing, start marker, destination flag,
+toll booth/barrier, and front-truck/garage badges. Original contributions are
+covered by LICENSE_ORIGINAL_ART.txt only to the extent protectable.
+
+The sixteen adapted ATS UI/map definition files remain SCS Software content.
+Changes: GPS background, map colors, eight player-marker sizes and one current-
+route color field; compact zoom backing and contrasting rest-status backing.
+Standard handlers, zoom controls, map bounds and game map flags retained.
+No SCS models, original game textures, fonts, executable code or complete DLC
+are included. Referenced game resources require a legitimate ATS installation.
+This notice grants no SCS rights and is not SCS approval or endorsement.
+
+No files from Sinagrit Baba's Google Maps mod are inputs to the release build.
+This project is independent and is not affiliated with Google or SCS Software.

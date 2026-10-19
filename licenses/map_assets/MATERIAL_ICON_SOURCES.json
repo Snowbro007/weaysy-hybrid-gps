@@ -1,0 +1,57 @@
+{
+  "dealer.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/maps/local_shipping/materialiconsround/24px.svg",
+    "file": "dealer.svg",
+    "sha256": "2d3aa4e825c4006125830157cb913cab8086650b0c655aef740f2590fd0f4cf4"
+  },
+  "fuel.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/maps/local_gas_station/materialiconsround/24px.svg",
+    "file": "fuel.svg",
+    "sha256": "cd002e6a5d37466b08d23b77d7f896210b921c9cb8e3eb2dbbe0106978012277"
+  },
+  "rest.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/maps/hotel/materialiconsround/24px.svg",
+    "file": "rest.svg",
+    "sha256": "5b5b05fc817a74b16969bc91610be7a7992f94bef5315a9929b0cf71a82743bc"
+  },
+  "people.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/social/groups/materialiconsround/24px.svg",
+    "file": "people.svg",
+    "sha256": "45a5c410201506fa594a4eae4ba98ccbffd91da04bc1b98b7afbf19c26453db0"
+  },
+  "service.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/build/materialiconsround/24px.svg",
+    "file": "service.svg",
+    "sha256": "c031a348dd1642c396e93f3edd3e6697cb98f2a458b8be3ecd25f4e11b5abb03"
+  },
+  "unknown.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/help_outline/materialiconsround/24px.svg",
+    "file": "unknown.svg",
+    "sha256": "8b301da92d312111a1772d5eefa1a47776f57cdaeab74ef4bc99180e8926a226"
+  },
+  "weight.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/action/balance/materialiconsround/24px.svg",
+    "file": "weight.svg",
+    "sha256": "78d5f8a6ffe6e50f9d6822d567d2674178d96a04825c5ca9af8ed23cf7934853"
+  },
+  "ferry.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/maps/directions_boat/materialiconsround/24px.svg",
+    "file": "ferry.svg",
+    "sha256": "337b7ef6119131fd51efd227cf176cab6f3d9f6cd95a6a71bccc7d7b9c92a275"
+  },
+  "video.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/av/videocam/materialiconsround/24px.svg",
+    "file": "video.svg",
+    "sha256": "5d05d32594a6f275301f7b5a84aa86927ef2508ab3d461fcf0a0c3299f330839"
+  },
+  "camera.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/image/photo_camera/materialiconsround/24px.svg",
+    "file": "camera.svg",
+    "sha256": "21d04e1d0b401178dea1e902831ba3b608cb47fde6d535cee277370f2662b9fd"
+  },
+  "agri.svg": {
+    "url": "https://raw.githubusercontent.com/google/material-design-icons/master/src/maps/agriculture/materialiconsround/24px.svg",
+    "file": "agri.svg",
+    "sha256": "baf1d039074dba38a1d7c3140be5aa31467ee6f1a3b1678715654fd6e737c9a1"
+  }
+}
